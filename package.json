@@ -1,5 +1,5 @@
 {
-  "name": "electron-prebuilt-compile",
+  "name": "Rick-electron-prebuilt-compile",
   "version": "1.6.5",
   "description": "electron-prebuilt that automatically understands Babel + React + LESS",
   "bin": {
